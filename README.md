@@ -13,6 +13,9 @@ We want to create a client-server application based  on GRPC which exposes a ser
 #### every second the client number 3 got an item (Server Streaming) :
 ![image](https://user-images.githubusercontent.com/78732216/235355666-c91e2164-a2b6-4667-ab7c-017fe70fe1da.png)
 
+#### streaming request from client and got response based on streamed requests (perform stream):
+![image](https://user-images.githubusercontent.com/78732216/235357065-fe96331b-bfcb-406d-8a1d-a8481b16f540.png)
+
 
 
 
