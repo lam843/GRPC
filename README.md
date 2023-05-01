@@ -19,7 +19,7 @@
 ===========================================================================================================================================================================
 
 <details>
-           <summary>First part:</summary>
+           <summary> ## First part:</summary>
                                
 #### 1 ---> Test the Unary Model using BloomRPC:
 ![image](https://user-images.githubusercontent.com/78732216/235297645-5e95d16c-8f13-43c2-9063-a739000906b3.png)
@@ -42,8 +42,9 @@
 ![image](https://user-images.githubusercontent.com/78732216/235368361-b16494db-108b-4a80-9cc9-7e80a983bbe8.png)
 </details>
 =======================================================================
-### Sencond part: 
-
+<details>
+           <summary> ## Second part:</summary> 
+</details>
 
 
 
