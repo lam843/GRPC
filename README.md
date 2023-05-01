@@ -47,26 +47,41 @@ At startup the server chooses a random number between 1 and 1000 Then the GRPC c
 <details>
            <summary>  Second part: </summary> 
            
-#### 1. Create a GRPC Chat server and Test the Chat server with a GRPC client like BloomRPC          
+#### 1. Create a GRPC Chat server and Test the Chat server with a GRPC client like BloomRPC   :       
 #### typing user name BloomRPC:        
 ![image](https://user-images.githubusercontent.com/78732216/235484412-57a0fcab-97df-43e9-a4e1-fd3c54d47bce.png)
 
-#### display who is on chat :
+##### display who is on chat :
 ![image](https://user-images.githubusercontent.com/78732216/235484553-7d8fbf1b-de99-41ad-8233-b24eea5cb194.png)
 
-#### sending message :
+##### sending message :
 ![image](https://user-images.githubusercontent.com/78732216/235484774-e50b4ed2-bd90-420a-86c1-d662587a85b7.png)
 
-#### display who sent message server  :
+##### display who sent message server  :
 ![image](https://user-images.githubusercontent.com/78732216/235485363-2572e1c5-813b-42d6-bc2e-6d6ff77d6d41.png)
 
-#### display messages Bloom  :
+##### display messages Bloom  :
 ![image](https://user-images.githubusercontent.com/78732216/235485682-3dc063f5-1f8d-4bea-9055-e88bfc2f7e89.png)
 
-#### 2.Create Java GRPC Client 
+#### 2.Create Java GRPC Client  :
+++ client java :
+![image](https://user-images.githubusercontent.com/78732216/235499390-068fb8a9-c1b4-490f-b554-118489735072.png)
+++ server:
+![image](https://user-images.githubusercontent.com/78732216/235499473-704fa815-8786-498f-98f6-4c444dff4046.png)
 
 
-#### 3. Create a Python GRPC Client
+
+#### 3. Create a Python GRPC Client :
+
+++ server:
+![image](https://user-images.githubusercontent.com/78732216/235511565-dbe48e32-c1ea-4d53-9219-a0893e9cc19c.png)
+
+++ java client:
+![image](https://user-images.githubusercontent.com/78732216/235511643-1fa98152-342d-4087-8a8d-f504ec6f3b63.png)
+
+++ python client:
+![image](https://user-images.githubusercontent.com/78732216/235511716-e5788603-6aad-446a-8bc3-43f9eb731257.png)
+
 
 
           
