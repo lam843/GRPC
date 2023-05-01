@@ -18,7 +18,8 @@ At startup the server chooses a random number between 1 and 1000 Then the GRPC c
         4. Game over, the winner is ""Winner's number" 
         
         
-==============================================================================================================
+===========================================================================
+
 
 
 <details>
