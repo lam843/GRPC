@@ -11,8 +11,7 @@
 
                     
 + Third part : Create a GRPC GAME server:
-  
-At startup the server chooses a random number between 1 and 1000 Then the GRPC clients must guess the secret number in competition and the server responds each time with the following eventualities:
+###### At startup the server chooses a random number between 1 and 1000 Then the GRPC clients must guess the secret number in competition and the server responds each time ###### with the following eventualities:
                       1. Your number is greater
                       2. Your number is smaller
                       3. BRAVO you won and send the winner to customers
