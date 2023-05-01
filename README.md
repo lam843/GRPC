@@ -82,14 +82,19 @@ At startup the server chooses a random number between 1 and 1000 Then the GRPC c
 ++ python client:
 ![image](https://user-images.githubusercontent.com/78732216/235511716-e5788603-6aad-446a-8bc3-43f9eb731257.png)
 
-
-
-          
 </details>
 
 =======================================================================
 <details>
            <summary>  Third part: </summary> 
+           
+
+++Test with BloomRCP:
+
+![image](https://user-images.githubusercontent.com/78732216/235516671-b348f132-4b6d-463f-af65-63c682b1dd74.png)
+![image](https://user-images.githubusercontent.com/78732216/235516974-e8b8febe-406c-4a3f-b2d6-d22346be84b4.png)
+
+
 </details>
 
 
