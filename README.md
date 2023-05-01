@@ -13,10 +13,10 @@
 + Third part : Create a GRPC GAME server:
 <p align="center">  
 At startup the server chooses a random number between 1 and 1000 Then the GRPC clients must guess the secret number in competition and the server responds each time with the following eventualities:
-                      - Your number is greater
-                      - Your number is smaller
-                      - BRAVO you won and send the winner to customers
-                      - Game over, the winner is ""Winner's number"  </p>
+                      1. Your number is greater
+                      2. Your number is smaller
+                      3. BRAVO you won and send the winner to customers
+                      4. Game over, the winner is ""Winner's number"  </p>
 ===========================================================================================================================================================================
 
 <details>
