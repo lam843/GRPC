@@ -8,7 +8,7 @@
                      2. Create Java GRPC Client
                      3. Create a Python GRPC Client
 +Third part : Create a GRPC GAME server:
-                  <p>  - At startup the server chooses a random number between 1 and 1000.
+                  <p align="center">  - At startup the server chooses a random number between 1 and 1000.
                    - Then the GRPC clients must guess the secret number in competition.
                    - the server responds each time with the following eventualities:
                       - Your number is greater
