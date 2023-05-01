@@ -46,11 +46,13 @@ At startup the server chooses a random number between 1 and 1000 Then the GRPC c
 =======================================================================
 <details>
            <summary>  Second part: </summary> 
-typing user name BloomRPC:        
+#### typing user name BloomRPC:        
 ![image](https://user-images.githubusercontent.com/78732216/235484412-57a0fcab-97df-43e9-a4e1-fd3c54d47bce.png)
-display who is on chat :
+
+#### display who is on chat :
 ![image](https://user-images.githubusercontent.com/78732216/235484553-7d8fbf1b-de99-41ad-8233-b24eea5cb194.png)
-sending message :
+
+#### sending message :
 ![image](https://user-images.githubusercontent.com/78732216/235484774-e50b4ed2-bd90-420a-86c1-d662587a85b7.png)
 
           
