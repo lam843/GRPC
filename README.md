@@ -46,6 +46,7 @@ At startup the server chooses a random number between 1 and 1000 Then the GRPC c
 =======================================================================
 <details>
            <summary>  Second part: </summary> 
+           
 #### typing user name BloomRPC:        
 ![image](https://user-images.githubusercontent.com/78732216/235484412-57a0fcab-97df-43e9-a4e1-fd3c54d47bce.png)
 
