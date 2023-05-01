@@ -17,7 +17,10 @@
                       - BRAVO you won and send the winner to customers
                       - Game over, the winner is ""Winner's number"  </p>
 ===========================================================================================================================================================================
-### first part:                      
+
+<details>
+           <summary>First part:</summary>
+                               
 #### 1 ---> Test the Unary Model using BloomRPC:
 ![image](https://user-images.githubusercontent.com/78732216/235297645-5e95d16c-8f13-43c2-9063-a739000906b3.png)
 
@@ -37,7 +40,7 @@
 ![image](https://user-images.githubusercontent.com/78732216/235367893-389ae7a0-b084-47c7-8f62-c4ac7606c9ec.png)
 #### 4 ---> Bi-Directional (fullcurrencystream) send un recive a stream:
 ![image](https://user-images.githubusercontent.com/78732216/235368361-b16494db-108b-4a80-9cc9-7e80a983bbe8.png)
-
+</details>
 =======================================================================
 ### Sencond part: 
 
