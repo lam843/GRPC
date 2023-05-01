@@ -11,10 +11,10 @@
                    - At startup the server chooses a random number between 1 and 1000.
                    - Then the GRPC clients must guess the secret number in competition.
                    - the server responds each time with the following eventualities:
-                      . Your number is greater
-                      . Your number is smaller
-                      . BRAVO you won and send the winner to customers
-                      . Game over, the winner is ""Winner's number"  
+                      - Your number is greater
+                      - Your number is smaller
+                      - BRAVO you won and send the winner to customers
+                      - Game over, the winner is ""Winner's number"  
 ===========================================================================================================================================================================
 ### first part:                      
 #### 1 ---> Test the Unary Model using BloomRPC:
