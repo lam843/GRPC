@@ -4,7 +4,7 @@
 
 + First part : We want to create a client-server application based  on GRPC which exposes a service which makes it possible to consultbank accounts.
 + Second part : Create a GRPC chat server:
-                     1. Test the Chat server with a GRPC client like BloomRPC
+           Markup :  1. Test the Chat server with a GRPC client like BloomRPC
                      2. Create Java GRPC Client
                      3. Create a Python GRPC Client
 +Third part : Create a GRPC GAME server:
