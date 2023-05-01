@@ -4,19 +4,19 @@
 
 + First part : We want to create a client-server application based  on GRPC which exposes a service which makes it possible to consultbank accounts.
 + Second part : -Create a GRPC chat server:
-<p align="center"> 
+
   1. Test the Chat server with a GRPC client like BloomRPC 
   2. Create Java GRPC Client 
   3. Create a Python GRPC Client 
-</p>
+
                     
 + Third part : Create a GRPC GAME server:
-<p align="center">  
+  
 At startup the server chooses a random number between 1 and 1000 Then the GRPC clients must guess the secret number in competition and the server responds each time with the following eventualities:
                       1. Your number is greater
                       2. Your number is smaller
                       3. BRAVO you won and send the winner to customers
-                      4. Game over, the winner is ""Winner's number"  </p>
+                      4. Game over, the winner is ""Winner's number" 
 ===========================================================================================================================================================================
 
 <details>
