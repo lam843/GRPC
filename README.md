@@ -56,6 +56,14 @@ At startup the server chooses a random number between 1 and 1000 Then the GRPC c
 #### sending message :
 ![image](https://user-images.githubusercontent.com/78732216/235484774-e50b4ed2-bd90-420a-86c1-d662587a85b7.png)
 
+#### display who sent message server  :
+![image](https://user-images.githubusercontent.com/78732216/235485363-2572e1c5-813b-42d6-bc2e-6d6ff77d6d41.png)
+
+#### display messages Bloom  :
+![image](https://user-images.githubusercontent.com/78732216/235485682-3dc063f5-1f8d-4bea-9055-e88bfc2f7e89.png)
+
+
+
           
 </details>
 
