@@ -43,7 +43,12 @@
 </details>
 =======================================================================
 <details>
-           <summary> ## Second part:</summary> 
+           <summary>  Second part: </summary> 
+</details>
+
+=======================================================================
+<details>
+           <summary>  Third part: </summary> 
 </details>
 
 
