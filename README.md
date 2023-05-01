@@ -47,6 +47,7 @@ At startup the server chooses a random number between 1 and 1000 Then the GRPC c
 <details>
            <summary>  Second part: </summary> 
            
+#### 1. Create a GRPC Chat server and Test the Chat server with a GRPC client like BloomRPC          
 #### typing user name BloomRPC:        
 ![image](https://user-images.githubusercontent.com/78732216/235484412-57a0fcab-97df-43e9-a4e1-fd3c54d47bce.png)
 
@@ -62,6 +63,10 @@ At startup the server chooses a random number between 1 and 1000 Then the GRPC c
 #### display messages Bloom  :
 ![image](https://user-images.githubusercontent.com/78732216/235485682-3dc063f5-1f8d-4bea-9055-e88bfc2f7e89.png)
 
+#### 2.Create Java GRPC Client 
+
+
+#### 3. Create a Python GRPC Client
 
 
           
