@@ -8,13 +8,13 @@
                      2. Create Java GRPC Client
                      3. Create a Python GRPC Client
 +Third part : Create a GRPC GAME server:
-                  <sub>  - At startup the server chooses a random number between 1 and 1000.
+                  <p>  - At startup the server chooses a random number between 1 and 1000.
                    - Then the GRPC clients must guess the secret number in competition.
                    - the server responds each time with the following eventualities:
                       - Your number is greater
                       - Your number is smaller
                       - BRAVO you won and send the winner to customers
-                      - Game over, the winner is ""Winner's number"  </sub>
+                      - Game over, the winner is ""Winner's number"  </p>
 ===========================================================================================================================================================================
 ### first part:                      
 #### 1 ---> Test the Unary Model using BloomRPC:
