@@ -1,4 +1,4 @@
-## Activité Pratique N°3:Systèmes Distribués avec GRPC 
+## Activité Pratique N°3 : Systèmes Distribués avec GRPC 
 
 ### Objective:
 
